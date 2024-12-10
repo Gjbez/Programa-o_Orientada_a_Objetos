@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/gbez/Desktop/lista04/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/gbez/Desktop/lista04/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lista04 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'lista04 1.0-SNAPSHOT API'
+questao1
+C:\Users\gbez\Desktop\lista04\src\main\java = 1724671475250
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\allclasses-index.html = 1724678291684
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\allpackages-index.html = 1724678291686
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\copy.svg = 1724678291713
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\element-list = 1724678291651
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\help-doc.html = 1724678291708
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\index-all.html = 1724678291698
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\index.html = 1724678291701
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\link.svg = 1724678291714
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\member-search-index.js = 1724678291690
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\module-search-index.js = 1724678291688
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\overview-tree.html = 1724678291674
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\package-search-index.js = 1724678291688
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\script.js = 1724678291712
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\search-page.js = 1724678291718
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\search.html = 1724678291700
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\search.js = 1724678291716
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\stylesheet.css = 1724678291710
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\tag-search-index.js = 1724678291691
+C:\Users\gbez\Desktop\lista04\target\site\apidocs\type-search-index.js = 1724678291689
